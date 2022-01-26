@@ -30,7 +30,7 @@
 		}		
 	}
 
-	setInterval(atualizaTela, 10); //funçao que recebe parametro o nome da funcao(n a funcao), mais a quantidade em mile segundos q ela vai ser chamada
+	setInterval(atualizaTela, 10); 
 	
 </script>
 
