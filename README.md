@@ -1,2 +1,2 @@
-# bolinha_andante :pink_circle:
-Mini projeto aprendido na Alura!
+# bolinha_andante 🟣
+Mini projeto aprendido na Alura! 
